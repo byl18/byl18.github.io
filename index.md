@@ -17,6 +17,7 @@
   </tr>
 </table>
  
+<iframe height=400 width=550 src=".\resources\4.gif">
 
 ## 喜欢的音乐  Favorite music
 
@@ -74,4 +75,3 @@
 
 <img src=".\resources\2.png" alt="qrcode_1615083029" style="zoom:33%;" /> 
 
-<iframe height=360 width=360 src=".\resources\4.gif">
