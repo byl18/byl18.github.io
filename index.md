@@ -1,6 +1,6 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-<iframe height=400 width=610 src=".\resources\4.gif"></iframe>
+<iframe height=400 width=650 src=".\resources\4.gif"></iframe>
  
 ## 关于我 About me
 <table border="0">
@@ -24,7 +24,7 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22705492&auto=1&height=66"></iframe>
 
- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30064263&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30064263&auto=1&height=66"></iframe>
 
 ## 喜欢的番剧  Favorite anime
 
