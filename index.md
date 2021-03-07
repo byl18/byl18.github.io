@@ -73,3 +73,5 @@
 关注追風雨的夢。分享感受，吐槽生活；以文会友，以诚交心。
 
 <img src=".\resources\2.png" alt="qrcode_1615083029" style="zoom:33%;" /> 
+
+<iframe height=360 width=360 src=".\resources\4.gif">
