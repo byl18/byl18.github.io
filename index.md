@@ -1,6 +1,6 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-<iframe height=360 width=360 src=".\resources\4.gif">
+<iframe height=600 width=500 src=".\resources\4.gif">
 
 
 
@@ -20,8 +20,7 @@
 
 ## 喜欢的番剧  Favorite anime
 
-<a href="https://www.bilibili.com/bangumi/play/ep15022" target="-blank" title="未闻花名">
-<img src=".\resources\1.jpg" alt="未闻花名" style="zoom:33%;" width="28%" /></a> <a href="https://www.bilibili.com/bangumi/play/ss1699/" target="-blank" title="四月是你的谎言"><img src=".\resources\2.jpg" alt="四月是你的谎言" style="zoom:33%;" width="30%" /></a>   <a href="https://www.bilibili.com/bangumi/play/ss33802/" target="-blank" title="从零开始的异世界生活"><img src=".\resources\3.jpg" alt="从零开始的异世界生活" style="zoom:33%;" width="28%" /></a> 
+<a href="https://www.bilibili.com/bangumi/play/ep15022" target="-blank" title="未闻花名"><img src=".\resources\1.jpg" alt="未闻花名" style="zoom:33%;" width="28%" /></a> <a href="https://www.bilibili.com/bangumi/play/ss1699/" target="-blank" title="四月是你的谎言"><img src=".\resources\2.jpg" alt="四月是你的谎言" style="zoom:33%;" width="30%" /></a>   <a href="https://www.bilibili.com/bangumi/play/ss33802/" target="-blank" title="从零开始的异世界生活"><img src=".\resources\3.jpg" alt="从零开始的异世界生活" style="zoom:33%;" width="28%" /></a> 
 
 ## 喜欢的视频  Favorite video
 
