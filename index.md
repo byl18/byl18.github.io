@@ -1,6 +1,6 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-<iframe height=280 width=360 src=".\resources\4.gif">
+<iframe height=350 width=400 src=".\resources\4.gif">
  
  
  ## 关于我 About me
