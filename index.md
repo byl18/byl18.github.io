@@ -1,5 +1,7 @@
 # 欢迎来到小白的家！Welcome to my home!
 
+<iframe height=400 width=500 src=".\resources\4.gif">
+
 ## 关于我 About me
 
 +  简介：20岁 男  河南 漯河  白一兰
