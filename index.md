@@ -1,6 +1,6 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-
+<iframe height=400 width=550 src=".\resources\4.gif"></iframe>
  
 ## 关于我 About me
 <table border="0">
@@ -17,7 +17,6 @@
   </tr>
 </table>
  
-<iframe height=400 width=550 src=".\resources\4.gif">
 
 ## 喜欢的音乐  Favorite music
 
