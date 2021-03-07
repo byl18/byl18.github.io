@@ -1,6 +1,6 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-<iframe height=385 width=585 src=".\resources\4.gif"></iframe>
+<iframe height=385 width=635 src=".\resources\4.gif"></iframe>
  
 ## 关于我 About me
 <table border="0">
@@ -19,15 +19,16 @@
  
 
 ## 喜欢的音乐  Favorite music
-
+不问天：
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src=".\resources\1.mp3">
 </audio>
+
+secret base:
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src=".\resources\2.mp3" title="从零开始的异世界生活">
 
 </audio>
-
 ## 喜欢的番剧  Favorite anime
 
 <a href="https://www.bilibili.com/bangumi/play/ep15022" target="-blank" title="未闻花名"><img src=".\resources\1.jpg" alt="未闻花名" style="zoom:33%;" width="28%" /></a> <a href="https://www.bilibili.com/bangumi/play/ss1699/" target="-blank" title="四月是你的谎言"><img src=".\resources\2.jpg" alt="四月是你的谎言" style="zoom:33%;" width="30%" /></a>   <a href="https://www.bilibili.com/bangumi/play/ss33802/" target="-blank" title="从零开始的异世界生活"><img src=".\resources\3.jpg" alt="从零开始的异世界生活" style="zoom:33%;" width="28%" /></a> 
