@@ -1,6 +1,10 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-<iframe height=400 width=500 src=".\resources\4.gif">
+## 关于我 About me
+
++  简介：20岁 男  河南 漯河  白一兰
++  经历：现就读于清华大学生命学院，辅修生物医学工程，加入林枫计划第八期<img src=".\resources\1.png" alt="img" style="zoom:33%;" width="15%"/> 
++ 个性签名：灵衣玉佩，一阴一阳。罗生堂下。秋兰长生。
 
 ## 喜欢的音乐  Favorite music
 
