@@ -1,6 +1,6 @@
 # 欢迎来到小白的家！Welcome to my home!
 
-<iframe height=360 width=360 src=".\resources\4.gif"></iframe>
+<iframe height=385 width=585 src=".\resources\4.gif"></iframe>
  
 ## 关于我 About me
 <table border="0">
@@ -20,11 +20,13 @@
 
 ## 喜欢的音乐  Favorite music
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1819906832&auto=1&height=66"></iframe>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src=".\resources\1.mp3">
+</audio>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src=".\resources\2.mp3" title="从零开始的异世界生活">
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22705492&auto=1&height=66"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30064263&auto=1&height=66"></iframe>
+</audio>
 
 ## 喜欢的番剧  Favorite anime
 
