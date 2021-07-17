@@ -47,6 +47,9 @@ secret base:
     <source id="mp4" src=".\resources\2.mp4">
 </video>
 
+<video id="video" controls="" preload="none" width="600"  controls="controls" style="width= 50%; height=100%; object-fit: fill">
+    <source id="mp4" src=".\resources\3.mp4">
+</video>
 
 
 ## 喜欢的技能 Favorite skill
