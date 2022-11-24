@@ -1,3 +1,7 @@
+<video id="video" controls="" preload="none" width="600"  controls="controls" style="width= 50%; height=100%; object-fit: fill">
+    <source id="mp4" src="..\byl18.github.com\1.mp4" type="video/mp4"> 
+</video>
+<div style="display:none">
 # 欢迎来到小白的家！Welcome to my home!
 
 <iframe height=385 width=642 src=".\resources\4.gif"></iframe>
@@ -79,4 +83,4 @@ secret base:
 关注追風雨的夢。分享感受，吐槽生活；以文会友，以诚交心。
 
 <img src=".\resources\2.png" alt="qrcode_1615083029" style="zoom:33%;" /> 
-
+</div>
